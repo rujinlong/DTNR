@@ -12,7 +12,7 @@ function HomePage() {
   const services = [
     {
       icon: <Database className="w-12 h-12 text-blue-400" />,
-      title: "DNTR Platform",
+      title: "DTNR Platform",
       description: "AI-powered ncRNA drug discovery platform for rapidly identifying potential therapeutics.",
       link: "#platform"
     },

@@ -36,7 +36,7 @@ const Navbar = () => {
               <button 
                 className="flex items-center space-x-1 text-gray-300 hover:text-white transition-colors"
               >
-                <span>Platform</span>
+                <span>Products</span>
                 <ChevronDown className="w-4 h-4" />
               </button>
               
@@ -65,7 +65,9 @@ const Navbar = () => {
                 </div>
               )}
             </div>
-            <a href="#services" className="text-gray-300 hover:text-white transition-colors">Services</a>
+            <a href="#blog" className="text-gray-300 hover:text-white transition-colors">Blog</a>
+            <a href="#plans" className="text-gray-300 hover:text-white transition-colors">Plans</a>
+            <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact Us</a>
             <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
             <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
               Login

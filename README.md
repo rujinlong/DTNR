@@ -1,3 +1,3 @@
 # DTNR
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rujinlong/DTNR)
+DTNR is an AI-powered ncRNA drug discovery platform for rapidly identifying potential therapeutics.
