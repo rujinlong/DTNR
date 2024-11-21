@@ -45,13 +45,15 @@ const Navbar = () => {
                   className="absolute top-full left-0 mt-2 w-48 bg-white/10 backdrop-blur-lg rounded-lg overflow-hidden shadow-xl border border-white/10"
                 >
                   <Link 
-                    to="/deepsmirUD"
+                    to="https://rujinlong.shinyapps.io/DeepsmirUD/"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="block px-4 py-3 text-gray-300 hover:bg-white/20 hover:text-white transition-colors"
                   >
                     DeepsmirUD
                   </Link>
                   <Link 
-                    to="/deepdlncUD"
+                    to="/deepdlncud"
                     className="block px-4 py-3 text-gray-300 hover:bg-white/20 hover:text-white transition-colors"
                   >
                     DeepdlncUD
@@ -65,9 +67,9 @@ const Navbar = () => {
                 </div>
               )}
             </div>
-            <a href="#blog" className="text-gray-300 hover:text-white transition-colors">Blog</a>
-            <a href="#pricing" className="text-gray-300 hover:text-white transition-colors">Pricing</a>
-            <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact Us</a>
+            <a href="#news" className="text-gray-300 hover:text-white transition-colors">News</a>
+            <a href="#plans" className="text-gray-300 hover:text-white transition-colors">Plans</a>
+            <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
             <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
               Login
             </button>
