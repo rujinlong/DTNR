@@ -66,9 +66,8 @@ const Navbar = () => {
               )}
             </div>
             <a href="#blog" className="text-gray-300 hover:text-white transition-colors">Blog</a>
-            <a href="#plans" className="text-gray-300 hover:text-white transition-colors">Plans</a>
+            <a href="#pricing" className="text-gray-300 hover:text-white transition-colors">Pricing</a>
             <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact Us</a>
-            <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
             <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
               Login
             </button>
